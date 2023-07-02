@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Gandhinagar",
+    "code": "GN",
+    "price": 0
+  },
+  {
+    "name": "Ahmedabad",
+    "code": "ADI",
+    "price": 100
+  },
+  {
+    "name": "Anand",
+    "code": "ANN",
+    "price": 150
+  },
+  {
+    "name": "Bhavnagar",
+    "code": "BVC",
+    "price": 200
+  },
+  {
+    "name": "Bhopal",
+    "code": "BPL",
+    "price": 250
+  },
+  {
+    "name": "Chandigarh",
+    "code": "CDG",
+    "price": 300
+  },
+  {
+    "name": "Delhi",
+    "code": "DLI",
+    "price": 350
+  },
+  {
+    "name": "Gandhidham",
+    "code": "GAM",
+    "price": 400
+  },
+  {
+    "name": "Hyderabad",
+    "code": "HYD",
+    "price": 450
+  },
+  {
+    "name": "Indore",
+    "code": "IND",
+    "price": 500
+  },
+  {
+    "name": "Jaipur",
+    "code": "JPT",
+    "price": 550
+  },
+  {
+    "name": "Mumbai",
+    "code": "CST",
+    "price": 600
+  },
+  {
+    "name": "Surat",
+    "code": "ST",
+    "price": 650
+  },
+  {
+    "name": "Vadodara",
+    "code": "BRC",
+    "price": 700
+  },
+  {
+    "name": "Varanasi",
+    "code": "BSB",
+    "price": 750
+  },
+  {
+    "name": "Ahemdabad Terminus",
+    "code": "AII",
+    "price": 800
+  }
+]
